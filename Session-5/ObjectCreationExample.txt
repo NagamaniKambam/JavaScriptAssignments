@@ -1,0 +1,7 @@
+var employee = {
+    employeeId = 101,
+    employeeName = 'Smitha',
+    employeeDesignation = 'AssistantManager',
+    employeeSalary = 50000
+}
+
